@@ -1,0 +1,23 @@
+{
+    "customer": [
+        {
+            "user_type": "customer",
+            "first_name": "John",
+            "last_name": "Ilozor",
+            "email": "jilozor@gmail.com",
+            "password": "1979",
+            "account_number": "8244712384",
+            "account_pin": "1979",
+            "account_balance": 10000.0
+        }
+    ],
+    "agent": [
+        {
+            "user_type": "agent",
+            "first_name": "Peter",
+            "last_name": "Oke",
+            "email": "ag@yahoo.com",
+            "password": "1234"
+        }
+    ]
+}
